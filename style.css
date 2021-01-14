@@ -1,0 +1,57 @@
+.pro li{
+    list-style: none;
+    padding-right: 30px;
+}
+.pro a{
+    text-decoration: none;
+    color: gray;
+}
+.topper{
+    background-color: rgba(255, 192, 203, .2);
+    padding-bottom: 120px;
+    padding-top: 20px;
+}
+.left{
+    width: 400px;
+}
+.pro img{
+    width: 400px;
+}
+.card-casual{
+    border-top: 0;
+  
+}
+.card-footer{
+
+}
+.card-casual-footer{
+        background-color: white;
+        border-top: 0;
+        border-bottom: 0;
+}
+.left-text{
+        width: 300px;
+        padding-left: 20px;
+}
+.five-left-item1{
+        box-shadow: 5px 5px 10px gray;
+        border-radius: 20px;
+}
+.five-left{
+        width: 40%;
+}
+.five-right{
+        width: 50%;
+}
+.five-right img{
+        width: 100%;
+}
+.contact{
+    height: 350px;
+}
+.contact-info h5{
+    width: 400px;
+}
+footer small{
+    font-size: 1rem;
+}
