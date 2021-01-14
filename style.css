@@ -6,6 +6,9 @@
     text-decoration: none;
     color: gray;
 }
+.pro li:hover{
+    text-decoration: underline;
+}
 .topper{
     background-color: rgba(255, 192, 203, .2);
     padding-bottom: 120px;
@@ -29,12 +32,20 @@
         border-top: 0;
         border-bottom: 0;
 }
+.cart{
+    color: white;
+    margin-right: 4px;
+}
+button{
+    padding: 0 10px;
+
+}
 .left-text{
         width: 300px;
         padding-left: 20px;
 }
 .five-left-item1{
-        box-shadow: 5px 5px 10px gray;
+        
         border-radius: 20px;
 }
 .five-left{
